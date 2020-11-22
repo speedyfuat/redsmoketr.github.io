@@ -1,1 +1,1 @@
-# http://redsmoketr.github.io
+# redsmoketr.github.io
